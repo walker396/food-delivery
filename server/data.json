@@ -1,0 +1,130 @@
+{
+  "takeaway": [
+    {
+      "tag": "318569657",
+      "name": "Single Meal Set",
+      "foods": [
+        {
+          "id": 8078956697,
+          "name": "Grilled Lamb Skewers (10 pieces)",
+          "like_ratio_desc": "100% positive reviews",
+          "month_saled": 40,
+          "unit": "10 pieces",
+          "food_tag_list": ["Recommended by reviewers"],
+          "price": 90,
+          "picture": "https://img.lovepik.com/free-png/20210918/lovepik-xinjiang-roast-mutton-skewers-png-image_400252771_wh1200.png",
+          "description": "",
+          "tag": "318569657"
+        },
+        {
+          "id": 7384994864,
+          "name": "Cantonese Sausage Claypot Rice",
+          "like_ratio_desc": "81% positive reviews",
+          "month_saled": 100,
+          "unit": "1 serving",
+          "food_tag_list": [],
+          "price": 39,
+          "picture": "https://bpic.588ku.com/element_origin_min_pic/23/04/24/37c3a5a87af72b163a2d85ebedcca256.jpg",
+          "description": "",
+          "tag": "318569657"
+        },
+        {
+          "id": 2305772036,
+          "name": "Braised Chicken and Carrot Rice",
+          "like_ratio_desc": "91% positive reviews",
+          "month_saled": 300,
+          "unit": "1 serving",
+          "food_tag_list": [],
+          "price": 34.32,
+          "picture": "https://bpic.588ku.com//back_origin_min_pic/24/05/28/4882dea0419af28ff89bd67e9d2172af.jpg",
+          "description": "Main ingredients: rice, chicken leg, cabbage, carrot",
+          "tag": "318569657"
+        },
+        {
+          "id": 2233861812,
+          "name": "Small Portion Sour Soup Youmian + Roujiamo Set",
+          "like_ratio_desc": "73% positive reviews",
+          "month_saled": 600,
+          "unit": "1 serving",
+          "food_tag_list": ["Good taste, well-packaged, thumbs up"],
+          "price": 34.32,
+          "picture": "https://www.missionfoods.com.cn/media/ojdcpu4z/recipe17-1.jpg",
+          "description": "Sour soup youmian, main ingredients: sour soup, youmian Roujiamo, main ingredients: white bread, pork",
+          "tag": "318569657"
+        }
+      ]
+    },
+    {
+      "tag": "82022594",
+      "name": "Special Barbecue",
+      "foods": [
+        {
+          "id": 3823780596,
+          "name": "Tengjiao Chicken Skewers",
+          "like_ratio_desc": "",
+          "month_saled": 200,
+          "unit": "10 pieces",
+          "food_tag_list": ["Recommended by reviewers"],
+          "price": 6,
+          "picture": "http://www.sunnersp.com/upfiles/products/201904/2019043858278490.jpeg",
+          "description": "1 piece. Tengjiao flavor, main ingredient: chicken",
+          "tag": "82022594"
+        },
+        {
+          "id": 6592009498,
+          "name": "Grilled Lamb Chops",
+          "like_ratio_desc": "",
+          "month_saled": 50,
+          "unit": "1 serving",
+          "food_tag_list": [],
+          "price": 169,
+          "picture": "https://www.greekreporterchina.com/wp-content/uploads/2024/04/2.jpg",
+          "description": "6-8 months old grassland lamb ribs, grilled until crispy and fragrant",
+          "tag": "82022594"
+        }
+      ]
+    },
+    {
+      "tag": "98147100",
+      "name": "Whole Grain Staples",
+      "foods": [
+        {
+          "id": 4056954171,
+          "name": "Wuchang Daohuaxiang Rice",
+          "like_ratio_desc": "",
+          "month_saled": 1000,
+          "unit": "about 300 grams",
+          "food_tag_list": [],
+          "price": 5,
+          "picture": "http://localhost:3000/images/4056954171.jpg",
+          "description": "Rich rice aroma, soft and chewy",
+          "tag": "98147100"
+        },
+        {
+          "id": 740430262,
+          "name": "Millet Steamed Cake (3 pieces)",
+          "like_ratio_desc": "100% positive reviews",
+          "month_saled": 100,
+          "unit": "3 pieces",
+          "food_tag_list": [],
+          "price": 13,
+          "picture": "https://www.greekreporterchina.com/wp-content/uploads/2024/04/2.jpg",
+          "description": "Soft and fluffy, with sweet and sour raisins and cranberries",
+          "tag": "98147100"
+        },
+        {
+          "id": 7466390504,
+          "name": "Sands Date Corn Buns (3 pieces)",
+          "like_ratio_desc": "100% positive reviews",
+          "month_saled": 100,
+          "unit": "3 pieces",
+          "food_tag_list": [],
+          "price": 13,
+          "picture": "https://www.greekreporterchina.com/wp-content/uploads/2024/04/2.jpg",
+          "description": "",
+          "tag": "98147100"
+        }
+      ]
+    }
+  ]
+}
